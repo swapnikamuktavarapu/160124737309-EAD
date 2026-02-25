@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #7db8eb;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height:100vh;
+
+}
+
+.form {
+    background-color: white;
+    width: 500px;
+    height: 50vh;
+    border-radius: 20px;
+    text-align: center;
+}
+
+input{
+    width:50%;
+    padding: 10px;
+    margin: 10px 0;
+}
+button
+{
+    background-color: rgb(40, 97, 196);
+    color:white;
+}
+button:hover{
+    background-color: blue;
+}
+#msg
+{
+    color: red;
+    margin-top: 20px;
+}
